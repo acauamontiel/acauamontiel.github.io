@@ -1,0 +1,124 @@
+/*
+ * Colors
+ *
+ * Use the following website to help you name the colors:
+ * http://chir.ag/projects/name-that-color
+ */
+
+$color = {
+	black: #000,
+	white: #fff,
+	cod-gray: #1B1B1B,
+	dove-gray: #666,
+	gray: #888
+	red: #f00
+	blue: #00f
+}
+
+
+/*
+ * Typography
+ */
+
+$font = {
+	// Font Names
+	alias: {
+		default: 'sans-serif',
+		alt: 'marvel'
+	},
+
+	// Font Families
+	family: {
+		sans-serif: unquote('Arial, Helvetica, sans-serif'),
+		marvel: unquote('"Marvel", sans-serif')
+	},
+
+	// Font Weights
+	weight: {
+		sans-serif-regular: normal,
+		sans-serif-bold: bold,
+		marvel-regular: 400,
+		marvel-bold: 700
+	},
+
+	// Font Sizes
+	size: {
+		huge: 80px,
+		big: 60px,
+		large: 32px,
+		medium: 30px,
+		small: 18px,
+		micro: 10px
+	},
+
+	// Font Trackings
+	tracking: {
+		default: 0em,
+		near: -0.02em,
+		far: 0.02em,
+	},
+
+	// Font Leadings
+	leading: {
+		default: 1.2em,
+		near: .8em,
+		far: 1.5em
+	}
+}
+
+// Font Faces
+$font.face = {
+	name: 'Marvel',
+	file: 'Marvel-Regular',
+	weight: $font-weight-marvel-regular
+}, {
+	name: 'Marvel',
+	file: 'Marvel-Bold',
+	weight: $font-weight-marvel-bold
+}
+
+// Font Definitions
+$font.family.default = $font.family[$font.alias.default]
+$font.family.alt = $font.family[$font.alias.alt]
+$font.weight.default = $font.weight[$font.alias.default + '-regular']
+$font.weight.alt = $font.weight[$font.alias.alt + '-regular']
+
+
+/*
+ * Transition
+ */
+
+$transition = {
+	time: {
+		default: .5s,
+	},
+
+	easing: {
+		default: 'ease',
+		inOutBack: cubic-bezier(0.68, -0.55, 0.265, 1.55)
+	}
+}
+
+$transition.time.fast = $transition.time.default / 2
+$transition.time.slow = $transition.time.default * 2
+
+
+/*
+ * Breakpoints
+ *
+ * See how to use Mantis Querist:
+ * https://github.com/mantis-stack/mantis-querist
+ */
+
+querist-init()
+
+
+/*
+ * Grid
+ *
+ * See how to use Mantis Grid System:
+ * https://github.com/mantis-stack/mantis-grid
+ */
+
+$mantis.grid.width = 960px
+grid-init()

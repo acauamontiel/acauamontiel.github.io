@@ -1,0 +1,59 @@
+/*
+ * Generate font-faces from $font.face
+ */
+
+generate-font-faces(font)
+	font-face(font.name, font.file, font.weight || normal, font.style || normal, font.unicode || false)
+
+if keys($font.face)[0] is 'name'
+	generate-font-faces($font.face)
+else
+	for font in $font.face
+		generate-font-faces(font)
+
+
+/*
+ * Typography Config
+ */
+
+$type-default-font-family = $font.family.default
+$type-default-font-weight = $font.weight.default
+$type-default-bold-font-weight = $font.weight.default
+
+$type-alt-font-family = $font.family.alt
+$type-alt-font-weight = $font.weight.alt
+$type-alt-bold-font-weight = $font.weight.alt
+
+$font-size-huge = $font.size.huge
+$font-size-big = $font.size.big
+$font-size-large = $font.size.large
+$font-size-medium = $font.size.medium
+$font-size-small = $font.size.small
+$font-size-micro = $font.size.micro
+
+
+/*
+ * Text Styles
+ */
+
+// Types
+.type-default
+	font-family $type-default-font-family
+	font-weight $type-default-font-weight
+
+.type-default-bold
+	font-family $type-default-font-family
+	font-weight $type-default-bold-font-weight
+
+.type-alt
+	font-family $type-alt-font-family
+	font-weight $type-alt-font-weight
+
+.type-alt-bold
+	font-family $type-alt-font-family
+	font-weight $type-alt-bold-font-weight
+
+
+// General
+body
+	@extend .type-default
