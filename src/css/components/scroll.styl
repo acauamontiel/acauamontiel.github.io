@@ -1,0 +1,25 @@
+.scroll
+	overflow hidden
+	absolute bottom 0 left 50%
+	font-size $font-size-micro
+	font-weight $type-alt-bold-font-weight
+	transform translateX(-50%)
+
+	&:before
+	&:after
+		content ''
+		background currentColor
+		border-radius 6px
+
+	&:after
+		display block
+		margin 5px auto 0
+		width 2px
+		height 50px
+
+	&:before
+		absolute bottom 0 left 50%
+		width 6px
+		height 20px
+		transform translateX(-50%)
+		animation scrollOscilate 2s infinite alternate

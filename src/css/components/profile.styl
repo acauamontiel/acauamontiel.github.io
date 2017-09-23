@@ -1,0 +1,41 @@
+/*
+ * Profile Configs
+ */
+
+$profile-tagline-color = $color.dove-gray
+
+
+/*
+ * Profile Styles
+ */
+
+.profile
+	&__picture
+		&__img
+			display block
+			size 80px
+			border-radius 50%
+
+	&__title
+		margin-top 25px
+		font-size $font-size-large
+		font-weight $type-alt-bold-font-weight
+
+	&__tagline
+		margin-top 10px
+		max-width 480px
+		font-size $font-size-small
+		color $profile-tagline-color
+
+	&__external
+		margin-top 40px
+		list-style none
+
+		&__item
+			margin-right 20px
+
+			&:last-child
+				margin 0
+
+		.icon
+			size 20px

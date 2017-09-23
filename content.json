@@ -1,4 +1,34 @@
 {
-	"title": "Mantis Starter",
-	"description": "A modern kick-starter for front-end development packed with well-chosen tools"
+	"picture": {
+		"source": "//graph.facebook.com/v2.3/100000630006367/picture?width=300&type=square",
+		"alt": "Acauã's profile picture"
+	},
+	"title": "Acauã Montiel",
+	"tagline": "Entrepreneur, workaholic, programmer, musician, audiophile and sometimes a getaway driver",
+	"external": [
+		{
+			"name": "facebook",
+			"source": "https://fb.com/acauamontiel"
+		},
+		{
+			"name": "twitter",
+			"source": "https://twitter.com/acauamontiel"
+		},
+		{
+			"name": "linkedin",
+			"source": "https://linkedin.com/u/acauamontiel"
+		},
+		{
+			"name": "github",
+			"source": "https://github.com/acauamontiel"
+		},
+		{
+			"name": "codepen",
+			"source": "https://codepen.com/acauamontiel"
+		},
+		{
+			"name": "youtube",
+			"source": "https://youtube.com/c/AcauãMontiel"
+		}
+	]
 }

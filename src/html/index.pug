@@ -1,9 +1,19 @@
 extends layouts/default
 
 block content
-	main.grid
-		section.grid__item-sm
-			h1 Acauã Montiel
+	main
+		section.section.grid.grid--align-center
+			article.profile.grid__item-sm
+				.profile__picture
+					img.profile__picture__img(src=picture.source, alt=picture.alt)
 
-			p #[+icon('codepen')] #[+icon('facebook')] #[+icon('github')] #[+icon('instagram')] #[+icon('linkedin')] #[+icon('twitter')] #[+icon('youtube')]
+				h1.profile__title= title
+				h2.profile__tagline= tagline
 
+				ul.profile__external.grid
+					for item in external
+						li.profile__external__item.grid__item-sm--auto
+							a.profile__external__link(href=item.source, title=item.name, target='_blank')
+								+icon(item.name)
+
+			.scroll SCROLL
