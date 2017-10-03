@@ -1,0 +1,74 @@
+/*
+ * Personality Configs
+ */
+
+$personality-background = $color.black
+$personality-fade-background = $color.black
+$personality-link-color = $color.white
+$personality-link-transition = $transition-default
+
+
+/*
+ * Personality Styles
+ */
+
+.personality
+	display flex
+	flex-direction column
+	text-align center
+	background $personality-background
+	z-index personality
+
+	@media $from.lg
+		margin-top 100vh
+		flex-direction row
+
+		&:after
+			content ''
+			absolute top 0 left 0 right 0
+			width 100%
+			height 25px
+			background linear-gradient(180deg, alpha($personality-fade-background, 0) 0, $personality-fade-background 100%)
+			transform translateY(-100%)
+
+	&__constellation
+		display none
+
+		@media $from.lg
+			display block
+			absolute top 0 bottom 0 left 0 right 0
+			width 100vw
+			height 100vh
+			z-index personality constellation
+
+	&__title
+		position center
+		width 100vw
+
+		@media $from.lg
+			absolute top 25px left 0 right 0
+			font-size $font-size-medium
+			transform translateZ(0)
+
+	&__side
+		height 50vh
+
+		@media $from.lg
+			width 50vw
+			height 100vh
+
+	&__link
+		padding 20px
+		font-size $font-size-medium
+		font-weight $type-alt-bold-font-weight
+		text-transform uppercase
+		color $personality-link-color
+		transition $personality-link-transition
+		z-index personality links
+		will-change transform
+
+		&:hover
+			transform scale(1.1)
+
+		@media $from.lg
+			font-size $font-size-big

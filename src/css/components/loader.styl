@@ -1,0 +1,28 @@
+/*
+ * Loader Configs
+ */
+
+$loader-background = $color.black
+$loader-transition = $transition-slow
+
+
+/*
+ * Loader Styles
+ */
+
+.loader
+	overflow hidden
+	fixed top 0 bottom 100vh left 0 right 0
+	background $loader-background
+	opacity 0
+	transition $loader-transition
+	z-index loader
+	pointer-events none
+	will-change bottom, opacity
+
+	&__canvas
+		position center
+
+	/.loading &
+		bottom 0
+		opacity 1

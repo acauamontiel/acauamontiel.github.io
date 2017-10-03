@@ -24,21 +24,21 @@ $font = {
 	// Font Names
 	alias: {
 		default: 'sans-serif',
-		alt: 'marvel'
+		alt: 'raleway'
 	},
 
 	// Font Families
 	family: {
 		sans-serif: unquote('Arial, Helvetica, sans-serif'),
-		marvel: unquote('"Marvel", sans-serif')
+		raleway: unquote('"Raleway", sans-serif')
 	},
 
 	// Font Weights
 	weight: {
 		sans-serif-regular: normal,
 		sans-serif-bold: bold,
-		marvel-regular: 400,
-		marvel-bold: 700
+		raleway-regular: 500,
+		raleway-bold: 900
 	},
 
 	// Font Sizes
@@ -67,15 +67,7 @@ $font = {
 }
 
 // Font Faces
-$font.face = {
-	name: 'Marvel',
-	file: 'Marvel-Regular',
-	weight: $font-weight-marvel-regular
-}, {
-	name: 'Marvel',
-	file: 'Marvel-Bold',
-	weight: $font-weight-marvel-bold
-}
+$font.face = {}
 
 // Font Definitions
 $font.family.default = $font.family[$font.alias.default]
@@ -90,7 +82,7 @@ $font.weight.alt = $font.weight[$font.alias.alt + '-regular']
 
 $transition = {
 	time: {
-		default: .5s,
+		default: .4s,
 	},
 
 	easing: {
@@ -122,3 +114,16 @@ querist-init()
 
 $mantis.grid.width = 960px
 grid-init()
+
+
+/*
+ * Layers
+ *
+ * See how to use Mantis Layers:
+ * https://github.com/mantis-stack/mantis-layers
+ */
+
+$mantis.layers.context = {
+	default: (profile personality loader),
+	personality: (constellation links)
+}

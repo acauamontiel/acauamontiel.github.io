@@ -4,7 +4,10 @@ doctype html
 html
 	include ../includes/head
 
-	body
+	body.loading
+
+		.loader
+			canvas.loader__canvas(width='320', height='320')
 
 		block content
 

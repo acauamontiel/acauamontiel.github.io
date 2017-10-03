@@ -13,6 +13,7 @@
   "homepage": "https://github.com/mantis-stack/mantis-starter",
   "private": true,
   "dependencies": {
-    "zepto": "^1.2.0"
+    "zepto": "^1.2.0",
+    "letteringjs": "^0.7.0"
   }
 }

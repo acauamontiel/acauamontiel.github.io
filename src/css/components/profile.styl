@@ -3,6 +3,16 @@
  */
 
 $profile-tagline-color = $color.dove-gray
+$profile-external-link-transition = $transition-default
+$profile-external-link-hover-color = $color.white
+
+$profile-title-length = 13
+$profile-tagline-length = 13
+$profile-external-length = 7
+$animation-duration = $transition-default
+$animation-delay-base = ($transition-fast / 3)
+$animation-delay(i)
+	return ($animation-delay-base * i)
 
 
 /*
@@ -10,32 +20,94 @@ $profile-tagline-color = $color.dove-gray
  */
 
 .profile
+	@media $from.lg
+		fixed top 0 left 50%
+		transform translateX(-50%)
+		z-index profile
+
 	&__picture
 		&__img
 			display block
 			size 80px
 			border-radius 50%
+			will-change transform, opacity
+			animation zoomIn $animation-duration ease-out forwards
+
+			@media $from.lg
+				size 145px
 
 	&__title
+		overflow hidden
 		margin-top 25px
 		font-size $font-size-large
 		font-weight $type-alt-bold-font-weight
+		text-transform uppercase
+
+		& [class*=char]:not(.char6)
+			display inline-block
+			opacity 0
+			transform translateY(100%)
+			will-change transform, opacity
+
+
+		for i in (1..13)
+			& .char{i}
+				animation fadeInUp $animation-duration ease-out $animation-delay(i) forwards
+
+		@media $from.lg
+			margin-top 65px
+			font-size $font-size-huge
 
 	&__tagline
 		margin-top 10px
-		max-width 480px
+		max-width 320px
 		font-size $font-size-small
 		color $profile-tagline-color
+
+		& [class*=word]
+			display inline-block
+			opacity 0
+			transform translateX(100%)
+			will-change transform, opacity
+
+		for i in (1..10)
+			& .word{i}
+				animation fadeInRight $animation-duration ease-out ($animation-delay(i) + $animation-delay-base * $profile-title-length) forwards
+
+		@media $from.lg
+			margin-top 20px
+			max-width 480px
+			font-size $font-size-medium
 
 	&__external
 		margin-top 40px
 		list-style none
 
+		@media $from.lg
+			margin-top 50px
+
 		&__item
 			margin-right 20px
+			opacity 0
+			will-change transform, opacity
+
+			@media $from.lg
+				margin-right 30px
 
 			&:last-child
 				margin 0
 
+			for i in (1..$profile-external-length)
+				&:nth-child({i})
+					animation zoomIn $animation-duration ease-out ($animation-delay(i) + $animation-delay-base * ($profile-title-length + $profile-tagline-length)) forwards
+
 		.icon
 			size 20px
+			transition $profile-external-link-transition
+
+			&:hover
+				color $profile-external-link-hover-color
+				transform scale(1.25)
+
+			@media $from.lg
+				size 30px

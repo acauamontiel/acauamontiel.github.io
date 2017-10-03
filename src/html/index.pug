@@ -1,19 +1,28 @@
 extends layouts/default
 
 block content
-	main
-		section.section.grid.grid--align-center
-			article.profile.grid__item-sm
-				.profile__picture
-					img.profile__picture__img(src=picture.source, alt=picture.alt)
+	section.section.grid.grid--align-center.profile
+		article.grid__item-sm
+			.profile__picture
+				img.profile__picture__img(src=picture.source, alt=picture.alt)
 
-				h1.profile__title= title
-				h2.profile__tagline= tagline
+			h1.profile__title= title
+			h2.profile__tagline= tagline
 
-				ul.profile__external.grid
-					for item in external
-						li.profile__external__item.grid__item-sm--auto
-							a.profile__external__link(href=item.source, title=item.name, target='_blank')
-								+icon(item.name)
+			ul.profile__external.grid
+				for item in external
+					li.profile__external__item.grid__item-sm--auto
+						a.profile__external__link(href=item.source, title=item.name, target='_blank')
+							+icon(item.name)
 
-			.scroll SCROLL
+		.scroll SCROLL
+
+	section.section.personality
+		canvas.personality__constellation
+		h1.personality__title Choose one side of my dual personality:
+
+		.personality__side.grid.grid--align-center.grid--justify-center
+			a.personality__link(href='http://tripleverge.com', title='Triple Verge', target='_blank') Programmer
+
+		.personality__side.grid.grid--align-center.grid--justify-center
+			a.personality__link(href='http://youtube.com/c/AcauãMontiel', title='Acauã Montiel - Keyboard Shredder', target='_blank') Musician
