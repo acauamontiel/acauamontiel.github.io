@@ -4,15 +4,19 @@
 		"alt": "Acauã's profile picture"
 	},
 	"title": "Acauã Montiel",
-	"tagline": "Entrepreneur, workaholic, programmer, musician, audiophile and sometimes a getaway driver",
+	"tagline": "Entrepreneur, workaholic, programmer and sometimes a rockstar.",
 	"external": [
 		{
 			"name": "facebook",
-			"source": "https://fb.com/acauamontiel"
+			"source": "https://fb.com/acauamontielofficial"
 		},
 		{
 			"name": "instagram",
 			"source": "https://instagram.com/acauamontiel"
+		},
+		{
+			"name": "youtube",
+			"source": "https://youtube.com/acauamontiel"
 		},
 		{
 			"name": "twitter",
@@ -29,10 +33,6 @@
 		{
 			"name": "codepen",
 			"source": "https://codepen.io/acauamontiel"
-		},
-		{
-			"name": "youtube",
-			"source": "https://youtube.com/c/AcauãMontiel"
 		}
 	]
 }

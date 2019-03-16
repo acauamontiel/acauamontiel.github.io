@@ -1,0 +1,3063 @@
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/style.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/stylus/lib/functions/index.styl */
+
+/* line 297 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/stylus/lib/functions/index.styl */
+
+/* line 15 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/index.styl */
+
+/* line 15 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/index.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/border.styl */
+
+/* line 10 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/border.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/border-radius.styl */
+
+/* line 53 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/border-radius.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/clearfix.styl */
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/clearfix.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/color-image.styl */
+
+/* line 4 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/color-image.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/flex.styl */
+
+/* line 196 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/flex.styl */
+
+/* line 90 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/gradients.styl */
+
+/* line 90 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/gradients.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/config.styl */
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/config.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/iconic.styl */
+
+/* line 7 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/iconic.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/image.styl */
+
+/* line 25 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/image.styl */
+
+/* line 19 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/index.styl */
+
+/* line 19 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/index.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/base.styl */
+
+/* line 8 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/base.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/html5.styl */
+
+/* line 19 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/html5.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/links.styl */
+
+/* line 6 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/links.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/text.styl */
+
+/* line 30 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/text.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/embed.styl */
+
+/* line 7 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/embed.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/groups.styl */
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/groups.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/forms.styl */
+
+/* line 69 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/forms.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/tables.styl */
+
+/* line 7 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/normalize/tables.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/overflow.styl */
+
+/* line 20 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/overflow.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/positions.styl */
+
+/* line 66 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/positions.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/reset.styl */
+
+/* line 78 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/reset.styl */
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/index.styl */
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/index.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/aliases.styl */
+
+/* line 12 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/aliases.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/ellipsis.styl */
+
+/* line 9 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/ellipsis.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/hide-text.styl */
+
+/* line 8 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/hide-text.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/replace-text.styl */
+
+/* line 9 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/replace-text.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/vendor.styl */
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/vendor.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/config.styl */
+
+/* line 523 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/config.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/size.styl */
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/reset.styl */
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre,
+a,
+abbr,
+acronym,
+address,
+code,
+del,
+dfn,
+em,
+img,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+caption,
+tbody,
+tfoot,
+thead,
+tr {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/reset.styl */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+
+/* line 34 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/reset.styl */
+caption,
+th,
+td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 36 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/reset.styl */
+a img {
+  border: none;
+}
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/nib/lib/nib/size.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+
+/* line 4 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 7 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+:hover,
+:focus {
+  outline-width: 0;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+/* line 16 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+html {
+  height: 100%;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 21 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+body {
+  margin: 0;
+  min-height: 100%;
+  scroll-behavior: smooth;
+}
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+a {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/* line 30 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  line-height: normal;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* line 43 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+button:-webkit-autofill,
+input:-webkit-autofill,
+select:-webkit-autofill,
+textarea:-webkit-autofill {
+  -webkit-transition: background-color 5000s ease-in-out 0s;
+  -moz-transition: background-color 5000s ease-in-out 0s;
+  -o-transition: background-color 5000s ease-in-out 0s;
+  -ms-transition: background-color 5000s ease-in-out 0s;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+/* line 46 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+a,
+button,
+input[type=button],
+input[type=reset],
+input[type=submit] {
+  color: inherit;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+/* line 55 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+input[type=search] {
+  -webkit-appearance: textfield;
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+/* line 58 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+input[type=search]::-webkit-search-decoration,
+input[type=search]::-webkit-search-cancel-button {
+  display: none;
+}
+
+/* line 62 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+input[type=search]::-webkit-datetime-edit {
+  margin: -1px 0;
+}
+
+/* line 72 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-equalizr/src/mantis-equalizr.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-querist/src/mantis-querist.styl */
+
+/* line 81 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-querist/src/mantis-querist.styl */
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid.styl */
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-functions.styl */
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-functions.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-layers/src/mantis-layers.styl */
+
+/* line 27 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-layers/src/mantis-layers.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/config.styl */
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  -o-box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 960px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--row {
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -o-box-orient: horizontal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+/* line 8 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--row-reverse {
+  -webkit-box-direction: reverse;
+  -moz-box-direction: reverse;
+  -o-box-direction: reverse;
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -o-box-orient: horizontal;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--column {
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+/* line 14 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--column-reverse {
+  -webkit-box-direction: reverse;
+  -moz-box-direction: reverse;
+  -o-box-direction: reverse;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column-reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+}
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--align-start {
+  -webkit-box-align: start;
+  -moz-box-align: start;
+  -o-box-align: start;
+  -ms-flex-align: start;
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+}
+
+/* line 20 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--align-end {
+  -webkit-box-align: end;
+  -moz-box-align: end;
+  -o-box-align: end;
+  -ms-flex-align: end;
+  -webkit-align-items: flex-end;
+  align-items: flex-end;
+}
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--align-center {
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+
+/* line 29 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--justify-start {
+  -webkit-box-pack: start;
+  -moz-box-pack: start;
+  -o-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+}
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--justify-end {
+  -webkit-box-pack: end;
+  -moz-box-pack: end;
+  -o-box-pack: end;
+  -ms-flex-pack: end;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+
+/* line 35 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--justify-center {
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -o-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--justify-around {
+  -webkit-box-pack: distribute;
+  -moz-box-pack: distribute;
+  -o-box-pack: distribute;
+  -ms-flex-pack: distribute;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+
+/* line 41 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid--justify-between {
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -o-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  -o-box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 960px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--row {
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -o-box-orient: horizontal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+/* line 8 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--row-reverse {
+  -webkit-box-direction: reverse;
+  -moz-box-direction: reverse;
+  -o-box-direction: reverse;
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -o-box-orient: horizontal;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--column {
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+/* line 14 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--column-reverse {
+  -webkit-box-direction: reverse;
+  -moz-box-direction: reverse;
+  -o-box-direction: reverse;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column-reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+}
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--align-start {
+  -webkit-box-align: start;
+  -moz-box-align: start;
+  -o-box-align: start;
+  -ms-flex-align: start;
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+}
+
+/* line 20 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--align-end {
+  -webkit-box-align: end;
+  -moz-box-align: end;
+  -o-box-align: end;
+  -ms-flex-align: end;
+  -webkit-align-items: flex-end;
+  align-items: flex-end;
+}
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--align-center {
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+
+/* line 29 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--justify-start {
+  -webkit-box-pack: start;
+  -moz-box-pack: start;
+  -o-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+}
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--justify-end {
+  -webkit-box-pack: end;
+  -moz-box-pack: end;
+  -o-box-pack: end;
+  -ms-flex-pack: end;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+
+/* line 35 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--justify-center {
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -o-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--justify-around {
+  -webkit-box-pack: distribute;
+  -moz-box-pack: distribute;
+  -o-box-pack: distribute;
+  -ms-flex-pack: distribute;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+
+/* line 41 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid-sm--justify-between {
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -o-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+
+/* line 55 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -o-box-flex: 1;
+  -ms-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+  -webkit-flex-basis: 0;
+  flex-basis: 0;
+  min-width: 0;
+}
+
+/* line 58 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--first {
+  -webkit-box-ordinal-group: -1;
+  -moz-box-ordinal-group: -1;
+  -o-box-ordinal-group: -1;
+  -ms-flex-order: -1;
+  -webkit-order: -1;
+  order: -1;
+}
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--last {
+  -webkit-box-ordinal-group: 1;
+  -moz-box-ordinal-group: 1;
+  -o-box-ordinal-group: 1;
+  -ms-flex-order: 1;
+  -webkit-order: 1;
+  order: 1;
+}
+
+/* line 64 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--auto {
+  -webkit-flex-basis: auto;
+  flex-basis: auto;
+  min-width: 0;
+}
+
+/* line 67 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+[class*=grid__item-sm] {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--1 {
+  -webkit-flex-basis: 8.333333333333334%;
+  flex-basis: 8.333333333333334%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--1 {
+  margin-left: 8.333333333333334%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--2 {
+  -webkit-flex-basis: 16.666666666666668%;
+  flex-basis: 16.666666666666668%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--2 {
+  margin-left: 16.666666666666668%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--3 {
+  -webkit-flex-basis: 25%;
+  flex-basis: 25%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--3 {
+  margin-left: 25%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--4 {
+  -webkit-flex-basis: 33.333333333333336%;
+  flex-basis: 33.333333333333336%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--4 {
+  margin-left: 33.333333333333336%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--5 {
+  -webkit-flex-basis: 41.66666666666667%;
+  flex-basis: 41.66666666666667%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--5 {
+  margin-left: 41.66666666666667%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--6 {
+  -webkit-flex-basis: 50%;
+  flex-basis: 50%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--6 {
+  margin-left: 50%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--7 {
+  -webkit-flex-basis: 58.333333333333336%;
+  flex-basis: 58.333333333333336%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--7 {
+  margin-left: 58.333333333333336%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--8 {
+  -webkit-flex-basis: 66.66666666666667%;
+  flex-basis: 66.66666666666667%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--8 {
+  margin-left: 66.66666666666667%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--9 {
+  -webkit-flex-basis: 75%;
+  flex-basis: 75%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--9 {
+  margin-left: 75%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--10 {
+  -webkit-flex-basis: 83.33333333333334%;
+  flex-basis: 83.33333333333334%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--10 {
+  margin-left: 83.33333333333334%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--11 {
+  -webkit-flex-basis: 91.66666666666667%;
+  flex-basis: 91.66666666666667%;
+  min-width: 0;
+}
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__offset-sm--11 {
+  margin-left: 91.66666666666667%;
+}
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+.grid__item-sm--12 {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  min-width: 0;
+}
+@media only screen and (min-width: 640px) {
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -o-box-lines: multiple;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 960px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--row {
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -o-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+
+/* line 8 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--row-reverse {
+    -webkit-box-direction: reverse;
+    -moz-box-direction: reverse;
+    -o-box-direction: reverse;
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -o-box-orient: horizontal;
+    -webkit-flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+  }
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--column {
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+/* line 14 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--column-reverse {
+    -webkit-box-direction: reverse;
+    -moz-box-direction: reverse;
+    -o-box-direction: reverse;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--align-start {
+    -webkit-box-align: start;
+    -moz-box-align: start;
+    -o-box-align: start;
+    -ms-flex-align: start;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+  }
+
+/* line 20 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--align-end {
+    -webkit-box-align: end;
+    -moz-box-align: end;
+    -o-box-align: end;
+    -ms-flex-align: end;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+  }
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--align-center {
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+
+/* line 29 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--justify-start {
+    -webkit-box-pack: start;
+    -moz-box-pack: start;
+    -o-box-pack: start;
+    -ms-flex-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+  }
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--justify-end {
+    -webkit-box-pack: end;
+    -moz-box-pack: end;
+    -o-box-pack: end;
+    -ms-flex-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+  }
+
+/* line 35 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--justify-center {
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--justify-around {
+    -webkit-box-pack: distribute;
+    -moz-box-pack: distribute;
+    -o-box-pack: distribute;
+    -ms-flex-pack: distribute;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+  }
+
+/* line 41 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-md--justify-between {
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    -o-box-pack: justify;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+}
+@media only screen and (min-width: 640px) {
+
+/* line 55 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -o-box-flex: 1;
+    -ms-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    flex-basis: 0;
+    min-width: 0;
+  }
+
+/* line 58 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--first {
+    -webkit-box-ordinal-group: -1;
+    -moz-box-ordinal-group: -1;
+    -o-box-ordinal-group: -1;
+    -ms-flex-order: -1;
+    -webkit-order: -1;
+    order: -1;
+  }
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--last {
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    -o-box-ordinal-group: 1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
+    order: 1;
+  }
+
+/* line 64 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--auto {
+    -webkit-flex-basis: auto;
+    flex-basis: auto;
+    min-width: 0;
+  }
+
+/* line 67 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  [class*=grid__item-md] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--1 {
+    -webkit-flex-basis: 8.333333333333334%;
+    flex-basis: 8.333333333333334%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--1 {
+    margin-left: 8.333333333333334%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--2 {
+    -webkit-flex-basis: 16.666666666666668%;
+    flex-basis: 16.666666666666668%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--2 {
+    margin-left: 16.666666666666668%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--3 {
+    -webkit-flex-basis: 25%;
+    flex-basis: 25%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--3 {
+    margin-left: 25%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--4 {
+    -webkit-flex-basis: 33.333333333333336%;
+    flex-basis: 33.333333333333336%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--4 {
+    margin-left: 33.333333333333336%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--5 {
+    -webkit-flex-basis: 41.66666666666667%;
+    flex-basis: 41.66666666666667%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--5 {
+    margin-left: 41.66666666666667%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--6 {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--6 {
+    margin-left: 50%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--7 {
+    -webkit-flex-basis: 58.333333333333336%;
+    flex-basis: 58.333333333333336%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--7 {
+    margin-left: 58.333333333333336%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--8 {
+    -webkit-flex-basis: 66.66666666666667%;
+    flex-basis: 66.66666666666667%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--8 {
+    margin-left: 66.66666666666667%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--9 {
+    -webkit-flex-basis: 75%;
+    flex-basis: 75%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--9 {
+    margin-left: 75%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--10 {
+    -webkit-flex-basis: 83.33333333333334%;
+    flex-basis: 83.33333333333334%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--10 {
+    margin-left: 83.33333333333334%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--11 {
+    -webkit-flex-basis: 91.66666666666667%;
+    flex-basis: 91.66666666666667%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-md--11 {
+    margin-left: 91.66666666666667%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-md--12 {
+    -webkit-flex-basis: 100%;
+    flex-basis: 100%;
+    min-width: 0;
+  }
+}
+@media only screen and (min-width: 960px) {
+
+/* line 2 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -o-box-lines: multiple;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 960px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--row {
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -o-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+
+/* line 8 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--row-reverse {
+    -webkit-box-direction: reverse;
+    -moz-box-direction: reverse;
+    -o-box-direction: reverse;
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -o-box-orient: horizontal;
+    -webkit-flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+  }
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--column {
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+/* line 14 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--column-reverse {
+    -webkit-box-direction: reverse;
+    -moz-box-direction: reverse;
+    -o-box-direction: reverse;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--align-start {
+    -webkit-box-align: start;
+    -moz-box-align: start;
+    -o-box-align: start;
+    -ms-flex-align: start;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+  }
+
+/* line 20 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--align-end {
+    -webkit-box-align: end;
+    -moz-box-align: end;
+    -o-box-align: end;
+    -ms-flex-align: end;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+  }
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--align-center {
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+
+/* line 29 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--justify-start {
+    -webkit-box-pack: start;
+    -moz-box-pack: start;
+    -o-box-pack: start;
+    -ms-flex-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+  }
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--justify-end {
+    -webkit-box-pack: end;
+    -moz-box-pack: end;
+    -o-box-pack: end;
+    -ms-flex-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+  }
+
+/* line 35 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--justify-center {
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--justify-around {
+    -webkit-box-pack: distribute;
+    -moz-box-pack: distribute;
+    -o-box-pack: distribute;
+    -ms-flex-pack: distribute;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+  }
+
+/* line 41 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid-lg--justify-between {
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    -o-box-pack: justify;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+}
+@media only screen and (min-width: 960px) {
+
+/* line 55 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -o-box-flex: 1;
+    -ms-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    flex-basis: 0;
+    min-width: 0;
+  }
+
+/* line 58 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--first {
+    -webkit-box-ordinal-group: -1;
+    -moz-box-ordinal-group: -1;
+    -o-box-ordinal-group: -1;
+    -ms-flex-order: -1;
+    -webkit-order: -1;
+    order: -1;
+  }
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--last {
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    -o-box-ordinal-group: 1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
+    order: 1;
+  }
+
+/* line 64 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--auto {
+    -webkit-flex-basis: auto;
+    flex-basis: auto;
+    min-width: 0;
+  }
+
+/* line 67 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  [class*=grid__item-lg] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--1 {
+    -webkit-flex-basis: 8.333333333333334%;
+    flex-basis: 8.333333333333334%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--1 {
+    margin-left: 8.333333333333334%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--2 {
+    -webkit-flex-basis: 16.666666666666668%;
+    flex-basis: 16.666666666666668%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--2 {
+    margin-left: 16.666666666666668%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--3 {
+    -webkit-flex-basis: 25%;
+    flex-basis: 25%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--3 {
+    margin-left: 25%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--4 {
+    -webkit-flex-basis: 33.333333333333336%;
+    flex-basis: 33.333333333333336%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--4 {
+    margin-left: 33.333333333333336%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--5 {
+    -webkit-flex-basis: 41.66666666666667%;
+    flex-basis: 41.66666666666667%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--5 {
+    margin-left: 41.66666666666667%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--6 {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--6 {
+    margin-left: 50%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--7 {
+    -webkit-flex-basis: 58.333333333333336%;
+    flex-basis: 58.333333333333336%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--7 {
+    margin-left: 58.333333333333336%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--8 {
+    -webkit-flex-basis: 66.66666666666667%;
+    flex-basis: 66.66666666666667%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--8 {
+    margin-left: 66.66666666666667%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--9 {
+    -webkit-flex-basis: 75%;
+    flex-basis: 75%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--9 {
+    margin-left: 75%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--10 {
+    -webkit-flex-basis: 83.33333333333334%;
+    flex-basis: 83.33333333333334%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--10 {
+    margin-left: 83.33333333333334%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--11 {
+    -webkit-flex-basis: 91.66666666666667%;
+    flex-basis: 91.66666666666667%;
+    min-width: 0;
+  }
+
+/* line 79 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__offset-lg--11 {
+    margin-left: 91.66666666666667%;
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/node_modules/mantis-grid/src/mantis-grid-classes.styl */
+  .grid__item-lg--12 {
+    -webkit-flex-basis: 100%;
+    flex-basis: 100%;
+    min-width: 0;
+  }
+}
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/config.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/mixins.styl */
+
+/* line 121 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/mixins.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/general.styl */
+
+/* line 118 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/mixins.styl */
+::selection {
+  color: #000;
+  background: #fff;
+}
+
+/* line 120 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/mixins.styl */
+::-moz-selection {
+  color: #000;
+  background: #fff;
+}
+
+/* line 27 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/general.styl */
+body {
+  color: #888;
+  background: #1b1b1b;
+}
+
+/* line 31 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/general.styl */
+.loading {
+  overflow: hidden;
+}
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/core/general.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/loader.styl */
+
+/* line 13 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/loader.styl */
+.loader {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  bottom: 100vh;
+  left: 0;
+  right: 0;
+  background: #000;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  -webkit-transition: 0.8s;
+  -moz-transition: 0.8s;
+  -o-transition: 0.8s;
+  -ms-transition: 0.8s;
+  transition: 0.8s;
+  z-index: 300;
+  pointer-events: none;
+  will-change: bottom, opacity;
+}
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/loader.styl */
+.loader__canvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/loader.styl */
+.loading .loader {
+  bottom: 0;
+  opacity: 1;
+  -ms-filter: none;
+  filter: none;
+}
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/loader.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+
+/* line 96 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+
+/* line 40 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+.type-default,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+/* line 44 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+.type-default-bold {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+/* line 48 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+.type-alt,
+.section {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+}
+
+/* line 52 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+.type-alt-bold {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+}
+
+/* line 58 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+
+/* line 59 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/type.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/icons.styl */
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/icons.styl */
+.icon {
+  display: inline-block;
+  position: relative;
+  width: 1em;
+  height: 1em;
+  color: currentColor;
+  fill: currentColor;
+  vertical-align: middle;
+}
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/icons.styl */
+
+/* line 11 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/sections.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/sections.styl */
+.section {
+  position: relative;
+  min-height: 100vh;
+}
+
+/* line 6 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/sections.styl */
+.section.grid {
+  padding: 0 15px;
+}
+
+/* line 9 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/sections.styl */
+.loading .section {
+  display: none;
+}
+
+/* line 10 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/sections.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+
+/* line 22 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+@media only screen and (min-width: 960px) {
+
+/* line 23 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    z-index: 100;
+  }
+}
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+
+/* line 29 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__picture__img {
+  display: block;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  will-change: transform, opacity;
+  -webkit-animation: zoomIn 0.4s ease-out forwards;
+  -moz-animation: zoomIn 0.4s ease-out forwards;
+  -o-animation: zoomIn 0.4s ease-out forwards;
+  -ms-animation: zoomIn 0.4s ease-out forwards;
+  animation: zoomIn 0.4s ease-out forwards;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 36 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile__picture__img {
+    width: 145px;
+    height: 145px;
+  }
+}
+
+/* line 39 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title {
+  overflow: hidden;
+  margin-top: 25px;
+  font-size: 32px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+/* line 46 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title [class*=char]:not(.char6) {
+  display: inline-block;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  -webkit-transform: translateY(100%);
+  -moz-transform: translateY(100%);
+  -o-transform: translateY(100%);
+  -ms-transform: translateY(100%);
+  transform: translateY(100%);
+  will-change: transform, opacity;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char1 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.066666666666667s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.066666666666667s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.066666666666667s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.066666666666667s forwards;
+  animation: fadeInUp 0.4s ease-out 0.066666666666667s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char2 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.133333333333333s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.133333333333333s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.133333333333333s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.133333333333333s forwards;
+  animation: fadeInUp 0.4s ease-out 0.133333333333333s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char3 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.2s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.2s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.2s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.2s forwards;
+  animation: fadeInUp 0.4s ease-out 0.2s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char4 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.266666666666667s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.266666666666667s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.266666666666667s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.266666666666667s forwards;
+  animation: fadeInUp 0.4s ease-out 0.266666666666667s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char5 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.333333333333333s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.333333333333333s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.333333333333333s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.333333333333333s forwards;
+  animation: fadeInUp 0.4s ease-out 0.333333333333333s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char6 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.4s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.4s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.4s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.4s forwards;
+  animation: fadeInUp 0.4s ease-out 0.4s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char7 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.466666666666667s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.466666666666667s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.466666666666667s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.466666666666667s forwards;
+  animation: fadeInUp 0.4s ease-out 0.466666666666667s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char8 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.533333333333333s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.533333333333333s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.533333333333333s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.533333333333333s forwards;
+  animation: fadeInUp 0.4s ease-out 0.533333333333333s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char9 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.6s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.6s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.6s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.6s forwards;
+  animation: fadeInUp 0.4s ease-out 0.6s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char10 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.666666666666667s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.666666666666667s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.666666666666667s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.666666666666667s forwards;
+  animation: fadeInUp 0.4s ease-out 0.666666666666667s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char11 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.733333333333333s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.733333333333333s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.733333333333333s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.733333333333333s forwards;
+  animation: fadeInUp 0.4s ease-out 0.733333333333333s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char12 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.8s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.8s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.8s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.8s forwards;
+  animation: fadeInUp 0.4s ease-out 0.8s forwards;
+}
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__title .char13 {
+  -webkit-animation: fadeInUp 0.4s ease-out 0.866666666666667s forwards;
+  -moz-animation: fadeInUp 0.4s ease-out 0.866666666666667s forwards;
+  -o-animation: fadeInUp 0.4s ease-out 0.866666666666667s forwards;
+  -ms-animation: fadeInUp 0.4s ease-out 0.866666666666667s forwards;
+  animation: fadeInUp 0.4s ease-out 0.866666666666667s forwards;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 57 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile__title {
+    margin-top: 65px;
+    font-size: 80px;
+  }
+}
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline {
+  margin-top: 10px;
+  max-width: 320px;
+  font-size: 18px;
+  color: #666;
+}
+
+/* line 67 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline [class*=word] {
+  display: inline-block;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  -webkit-transform: translateX(100%);
+  -moz-transform: translateX(100%);
+  -o-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  transform: translateX(100%);
+  will-change: transform, opacity;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word1 {
+  -webkit-animation: fadeInRight 0.4s ease-out 0.933333333333333s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 0.933333333333333s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 0.933333333333333s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 0.933333333333333s forwards;
+  animation: fadeInRight 0.4s ease-out 0.933333333333333s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word2 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1s forwards;
+  animation: fadeInRight 0.4s ease-out 1s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word3 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.066666666666667s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.066666666666667s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.066666666666667s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.066666666666667s forwards;
+  animation: fadeInRight 0.4s ease-out 1.066666666666667s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word4 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.133333333333333s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.133333333333333s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.133333333333333s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.133333333333333s forwards;
+  animation: fadeInRight 0.4s ease-out 1.133333333333333s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word5 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.2s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.2s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.2s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.2s forwards;
+  animation: fadeInRight 0.4s ease-out 1.2s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word6 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.266666666666667s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.266666666666667s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.266666666666667s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.266666666666667s forwards;
+  animation: fadeInRight 0.4s ease-out 1.266666666666667s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word7 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.333333333333333s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.333333333333333s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.333333333333333s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.333333333333333s forwards;
+  animation: fadeInRight 0.4s ease-out 1.333333333333333s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word8 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.4s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.4s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.4s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.4s forwards;
+  animation: fadeInRight 0.4s ease-out 1.4s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word9 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.466666666666667s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.466666666666667s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.466666666666667s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.466666666666667s forwards;
+  animation: fadeInRight 0.4s ease-out 1.466666666666667s forwards;
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__tagline .word10 {
+  -webkit-animation: fadeInRight 0.4s ease-out 1.533333333333333s forwards;
+  -moz-animation: fadeInRight 0.4s ease-out 1.533333333333333s forwards;
+  -o-animation: fadeInRight 0.4s ease-out 1.533333333333333s forwards;
+  -ms-animation: fadeInRight 0.4s ease-out 1.533333333333333s forwards;
+  animation: fadeInRight 0.4s ease-out 1.533333333333333s forwards;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 77 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile__tagline {
+    margin-top: 20px;
+    max-width: 480px;
+    font-size: 30px;
+  }
+}
+
+/* line 82 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external {
+  margin-top: 40px;
+  list-style: none;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 86 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile__external {
+    margin-top: 50px;
+  }
+}
+
+/* line 89 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item {
+  margin-right: 20px;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  will-change: transform, opacity;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 94 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile__external__item {
+    margin-right: 30px;
+  }
+}
+
+/* line 97 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:last-child {
+  margin: 0;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(1) {
+  -webkit-animation: zoomIn 0.4s ease-out 1.8s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 1.8s forwards;
+  -o-animation: zoomIn 0.4s ease-out 1.8s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 1.8s forwards;
+  animation: zoomIn 0.4s ease-out 1.8s forwards;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(2) {
+  -webkit-animation: zoomIn 0.4s ease-out 1.866666666666667s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 1.866666666666667s forwards;
+  -o-animation: zoomIn 0.4s ease-out 1.866666666666667s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 1.866666666666667s forwards;
+  animation: zoomIn 0.4s ease-out 1.866666666666667s forwards;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(3) {
+  -webkit-animation: zoomIn 0.4s ease-out 1.933333333333333s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 1.933333333333333s forwards;
+  -o-animation: zoomIn 0.4s ease-out 1.933333333333333s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 1.933333333333333s forwards;
+  animation: zoomIn 0.4s ease-out 1.933333333333333s forwards;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(4) {
+  -webkit-animation: zoomIn 0.4s ease-out 2s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 2s forwards;
+  -o-animation: zoomIn 0.4s ease-out 2s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 2s forwards;
+  animation: zoomIn 0.4s ease-out 2s forwards;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(5) {
+  -webkit-animation: zoomIn 0.4s ease-out 2.066666666666667s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 2.066666666666667s forwards;
+  -o-animation: zoomIn 0.4s ease-out 2.066666666666667s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 2.066666666666667s forwards;
+  animation: zoomIn 0.4s ease-out 2.066666666666667s forwards;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(6) {
+  -webkit-animation: zoomIn 0.4s ease-out 2.133333333333333s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 2.133333333333333s forwards;
+  -o-animation: zoomIn 0.4s ease-out 2.133333333333333s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 2.133333333333333s forwards;
+  animation: zoomIn 0.4s ease-out 2.133333333333333s forwards;
+}
+
+/* line 101 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external__item:nth-child(7) {
+  -webkit-animation: zoomIn 0.4s ease-out 2.2s forwards;
+  -moz-animation: zoomIn 0.4s ease-out 2.2s forwards;
+  -o-animation: zoomIn 0.4s ease-out 2.2s forwards;
+  -ms-animation: zoomIn 0.4s ease-out 2.2s forwards;
+  animation: zoomIn 0.4s ease-out 2.2s forwards;
+}
+
+/* line 104 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external .icon {
+  width: 20px;
+  height: 20px;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
+  -ms-transition: 0.4s;
+  transition: 0.4s;
+}
+
+/* line 108 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+.profile__external .icon:hover {
+  color: #fff;
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  -ms-transform: scale(1.25);
+  transform: scale(1.25);
+}
+@media only screen and (min-width: 960px) {
+
+/* line 112 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+  .profile__external .icon {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+/* line 113 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/profile.styl */
+
+/* line 113 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+.scroll {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  font-size: 10px;
+  font-weight: 900;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  z-index: 10;
+  pointer-events: none;
+}
+@media screen and (max-height: 425px) {
+
+/* line 9 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+  .scroll {
+    display: none;
+  }
+}
+
+/* line 12 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+.scroll:before,
+.scroll:after {
+  content: '';
+  background: currentColor;
+  border-radius: 6px;
+}
+
+/* line 18 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+.scroll:after {
+  display: block;
+  margin: 5px auto 0;
+  width: 2px;
+  height: 50px;
+}
+
+/* line 24 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+.scroll:before {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 6px;
+  height: 20px;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-animation: scrollOscilate 2s infinite alternate;
+  -moz-animation: scrollOscilate 2s infinite alternate;
+  -o-animation: scrollOscilate 2s infinite alternate;
+  -ms-animation: scrollOscilate 2s infinite alternate;
+  animation: scrollOscilate 2s infinite alternate;
+}
+
+/* line 29 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/scroll.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+
+/* line 15 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+.personality {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  background: #000;
+  z-index: 200;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 22 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+  .personality {
+    margin-top: 100vh;
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -o-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+
+/* line 26 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+  .personality:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 25px;
+    background: -webkit-linear-gradient(270deg, rgba(0,0,0,0) 0, #000 100%);
+    background: -moz-linear-gradient(270deg, rgba(0,0,0,0) 0, #000 100%);
+    background: -o-linear-gradient(270deg, rgba(0,0,0,0) 0, #000 100%);
+    background: -ms-linear-gradient(270deg, rgba(0,0,0,0) 0, #000 100%);
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0, #000 100%);
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    transform: translateY(-100%);
+  }
+}
+
+/* line 34 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+.personality__constellation {
+  display: none;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 37 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+  .personality__constellation {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+  }
+}
+
+/* line 44 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+.personality__title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 100vw;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 48 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+  .personality__title {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    right: 0;
+    font-size: 30px;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+}
+
+/* line 53 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+.personality__side {
+  height: 50vh;
+}
+@media only screen and (min-width: 960px) {
+
+/* line 56 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+  .personality__side {
+    width: 50vw;
+    height: 100vh;
+  }
+}
+
+/* line 60 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+.personality__link {
+  padding: 20px;
+  font-size: 30px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #fff;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
+  -ms-transition: 0.4s;
+  transition: 0.4s;
+  z-index: 200;
+  will-change: transform;
+}
+
+/* line 70 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+.personality__link:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+@media only screen and (min-width: 960px) {
+
+/* line 73 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+  .personality__link {
+    font-size: 60px;
+  }
+}
+
+/* line 74 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/personality.styl */
+
+/* line 1 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes fadeInUp {
+
+/* line 6 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+/* line 10 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes fadeInUp {
+
+/* line 6 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+/* line 10 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes fadeInUp {
+
+/* line 6 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+/* line 10 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 5 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes fadeInUp {
+
+/* line 6 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+/* line 10 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 16 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes fadeInDown {
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, -100%, 0);
+    -moz-transform: translate3d(0, -100%, 0);
+    -o-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+/* line 21 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 16 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes fadeInDown {
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, -100%, 0);
+    -moz-transform: translate3d(0, -100%, 0);
+    -o-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+/* line 21 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 16 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes fadeInDown {
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, -100%, 0);
+    -moz-transform: translate3d(0, -100%, 0);
+    -o-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+/* line 21 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 16 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes fadeInDown {
+
+/* line 17 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0, -100%, 0);
+    -moz-transform: translate3d(0, -100%, 0);
+    -o-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+/* line 21 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 27 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes fadeInLeft {
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(-100%, 0, 0);
+    -moz-transform: translate3d(-100%, 0, 0);
+    -o-transform: translate3d(-100%, 0, 0);
+    -ms-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 27 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes fadeInLeft {
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(-100%, 0, 0);
+    -moz-transform: translate3d(-100%, 0, 0);
+    -o-transform: translate3d(-100%, 0, 0);
+    -ms-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 27 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes fadeInLeft {
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(-100%, 0, 0);
+    -moz-transform: translate3d(-100%, 0, 0);
+    -o-transform: translate3d(-100%, 0, 0);
+    -ms-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 27 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes fadeInLeft {
+
+/* line 28 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(-100%, 0, 0);
+    -moz-transform: translate3d(-100%, 0, 0);
+    -o-transform: translate3d(-100%, 0, 0);
+    -ms-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+/* line 32 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes fadeInRight {
+
+/* line 39 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(100%, 0, 0);
+    -moz-transform: translate3d(100%, 0, 0);
+    -o-transform: translate3d(100%, 0, 0);
+    -ms-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+
+/* line 43 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes fadeInRight {
+
+/* line 39 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(100%, 0, 0);
+    -moz-transform: translate3d(100%, 0, 0);
+    -o-transform: translate3d(100%, 0, 0);
+    -ms-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+
+/* line 43 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes fadeInRight {
+
+/* line 39 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(100%, 0, 0);
+    -moz-transform: translate3d(100%, 0, 0);
+    -o-transform: translate3d(100%, 0, 0);
+    -ms-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+
+/* line 43 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 38 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes fadeInRight {
+
+/* line 39 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(100%, 0, 0);
+    -moz-transform: translate3d(100%, 0, 0);
+    -o-transform: translate3d(100%, 0, 0);
+    -ms-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+
+/* line 43 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* line 49 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes zoomIn {
+
+/* line 50 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+/* line 49 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes zoomIn {
+
+/* line 50 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+/* line 49 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes zoomIn {
+
+/* line 50 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+/* line 49 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes zoomIn {
+
+/* line 50 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+
+/* line 54 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+/* line 60 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes zoomOut {
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+/* line 65 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+}
+
+/* line 60 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes zoomOut {
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+/* line 65 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+}
+
+/* line 60 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes zoomOut {
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+/* line 65 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+}
+
+/* line 60 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes zoomOut {
+
+/* line 61 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  from {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+/* line 65 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  to {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+}
+
+/* line 71 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-moz-keyframes scrollOscilate {
+
+/* line 72 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  0% {
+    -webkit-transform: translate3d(-50%, -140%, 0);
+    -moz-transform: translate3d(-50%, -140%, 0);
+    -o-transform: translate3d(-50%, -140%, 0);
+    -ms-transform: translate3d(-50%, -140%, 0);
+    transform: translate3d(-50%, -140%, 0);
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  100% {
+    -webkit-transform: translate3d(-50%, 0, 0);
+    -moz-transform: translate3d(-50%, 0, 0);
+    -o-transform: translate3d(-50%, 0, 0);
+    -ms-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+/* line 71 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-webkit-keyframes scrollOscilate {
+
+/* line 72 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  0% {
+    -webkit-transform: translate3d(-50%, -140%, 0);
+    -moz-transform: translate3d(-50%, -140%, 0);
+    -o-transform: translate3d(-50%, -140%, 0);
+    -ms-transform: translate3d(-50%, -140%, 0);
+    transform: translate3d(-50%, -140%, 0);
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  100% {
+    -webkit-transform: translate3d(-50%, 0, 0);
+    -moz-transform: translate3d(-50%, 0, 0);
+    -o-transform: translate3d(-50%, 0, 0);
+    -ms-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+/* line 71 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@-o-keyframes scrollOscilate {
+
+/* line 72 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  0% {
+    -webkit-transform: translate3d(-50%, -140%, 0);
+    -moz-transform: translate3d(-50%, -140%, 0);
+    -o-transform: translate3d(-50%, -140%, 0);
+    -ms-transform: translate3d(-50%, -140%, 0);
+    transform: translate3d(-50%, -140%, 0);
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  100% {
+    -webkit-transform: translate3d(-50%, 0, 0);
+    -moz-transform: translate3d(-50%, 0, 0);
+    -o-transform: translate3d(-50%, 0, 0);
+    -ms-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+/* line 71 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+@keyframes scrollOscilate {
+
+/* line 72 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  0% {
+    -webkit-transform: translate3d(-50%, -140%, 0);
+    -moz-transform: translate3d(-50%, -140%, 0);
+    -o-transform: translate3d(-50%, -140%, 0);
+    -ms-transform: translate3d(-50%, -140%, 0);
+    transform: translate3d(-50%, -140%, 0);
+  }
+
+/* line 75 : /Users/acauamontiel/www/acaua/acauamontiel-website/src/css/components/animations.styl */
+  100% {
+    -webkit-transform: translate3d(-50%, 0, 0);
+    -moz-transform: translate3d(-50%, 0, 0);
+    -o-transform: translate3d(-50%, 0, 0);
+    -ms-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0);
+  }
+}
