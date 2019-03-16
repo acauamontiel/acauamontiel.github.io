@@ -1,6 +1,6 @@
 var path = {
 	src: './src/',
-	dest: './docs/'
+	dest: './'
 };
 
 path.html = {
