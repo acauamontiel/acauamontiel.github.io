@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.acauamontiel.bebidaemconta",
+    "sha256_cert_fingerprints": [
+      "E0:FE:06:75:33:7E:40:D4:31:83:6B:44:BE:92:91:8F:9B:48:91:C6:95:DB:39:79:AA:12:E2:FB:AA:F5:CC:7F"
+    ]
+  }
+}]
