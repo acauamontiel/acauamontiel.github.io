@@ -1,6 +1,6 @@
 {
 	"picture": {
-		"source": "//graph.facebook.com/v2.3/100000630006367/picture?width=300&type=square",
+		"source": "./img/profile.jpg",
 		"alt": "Acauã's profile picture"
 	},
 	"title": "Acauã Montiel",

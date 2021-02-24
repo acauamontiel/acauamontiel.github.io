@@ -4,7 +4,10 @@
   "description": "A modern kick-starter for front-end development packed with well-chosen tools",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp",
+    "build": "gulp build",
+    "dist": "gulp dist",
+    "bower": "bower install"
   },
   "repository": {
     "type": "git",
@@ -53,5 +56,8 @@
     "run-sequence": "^1.1.5",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "bower": "^1.8.12"
   }
 }
